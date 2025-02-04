@@ -1,5 +1,5 @@
 🚦 Atividade 1 - Temporizador Periódico (Semáforo) 
-* Colaboradora : Isabel Rosa de Santana.
+Desenvolvedora: Isabel Rosa de Santana.
 
 Este projeto implementa um semáforo de LEDs utilizando o Raspberry Pi Pico W. O código alterna entre os estados vermelho → amarelo → verde de forma automática, utilizando um temporizador periódico com callback.
 
